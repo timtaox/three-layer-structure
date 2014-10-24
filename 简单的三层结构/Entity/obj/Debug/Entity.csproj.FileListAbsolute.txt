@@ -1,0 +1,8 @@
+E:\练习\简单的三层结构\Entity\bin\Debug\Entity.dll
+E:\练习\简单的三层结构\Entity\bin\Debug\Entity.pdb
+E:\练习\简单的三层结构\Entity\obj\Debug\Entity.dll
+E:\练习\简单的三层结构\Entity\obj\Debug\Entity.pdb
+F:\练习\简单的三层结构\Entity\bin\Debug\Entity.dll
+F:\练习\简单的三层结构\Entity\bin\Debug\Entity.pdb
+F:\练习\简单的三层结构\Entity\obj\Debug\Entity.dll
+F:\练习\简单的三层结构\Entity\obj\Debug\Entity.pdb
